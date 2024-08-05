@@ -1,0 +1,31 @@
+.home-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size:2.0rem;
+    color: black; 
+   margin-top: 225px;
+   font-weight: 700;
+   line-height: 2rem;
+}
+.home-title-para{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.search-box{
+    justify-content: center;
+    align-items: center;
+    margin-left: 470px;
+    width: 38%;
+    height: 40px;
+    
+
+}
+.search-btn{
+    height: 45px;
+    width: 90px;
+    border-radius: 5px solid black;
+    background-color:#5ac8fa;
+}
